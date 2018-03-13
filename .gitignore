@@ -15,6 +15,9 @@ nosetests.xml
 .project
 .pydevproject
 
+# Plasma folder manager
+*.directory
+
 # Toontown Infinite Resources
 *.txt
 phase_3/maps/tt_t_gui_pat_background.psd
