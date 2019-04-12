@@ -1,14 +1,3 @@
-# This file contains all the possible names used in toon name generation.
-# Each name has a unique id and a category:
-#                                     0 - boyTitle
-#                                     1 - girlTitle
-#                                     2 - neutralTitle
-#                                     3 - boyFirst
-#                                     4 - girlFirst
-#                                     5 - neutralFirst
-#                                     6 - capPrefix
-#                                     7 - lastPrefix
-#                                     8 - lastSuffix
 0*0*Baron
 1*0*Duke
 2*0*King
